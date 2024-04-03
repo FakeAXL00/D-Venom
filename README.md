@@ -13,7 +13,7 @@
 -  `pkg install git`
 - `pkg install figlet`
 - `git clone https://github.com/FakeAXL00/D-Venom`
-- `cd Ddos-V`
+- `cd D-Venom`
 - `chmod +x d-venom.py`
 - `python2 d-venom.py`
 
